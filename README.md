@@ -8,25 +8,25 @@ Objetivo:
 
   Desenvolver um modelo analítico capaz de:
 
-analisar indicadores globais de tabagismo;
-identificar padrões entre políticas públicas e consumo;
-classificar países de acordo com níveis de prevalência;
-gerar insights relevantes para apoio à decisão em saúde pública.
+- analisar indicadores globais de tabagismo;
+- identificar padrões entre políticas públicas e consumo;
+- classificar países de acordo com níveis de prevalência;
+- gerar insights relevantes para apoio à decisão em saúde pública.
 
 Base de dados:
 
   A base utilizada é disponibilizada pela Organização Mundial da Saúde: 
 
-Tema: Tobacco control
-Fonte: Global Health Observatory (GHO)
-Link: https://www.who.int/data/gho/data/themes/tobacco-control
+- Tema: Tobacco control
+- Fonte: Global Health Observatory (GHO)
+- Link: https://www.who.int/data/gho/data/themes/tobacco-control
 
   A base inclui dados sobre:
   
-prevalência de tabagismo (adultos e jovens);
-políticas de controle do tabaco (MPOWER);
-campanhas de conscientização;
-regulamentação e tributação. 
+- prevalência de tabagismo (adultos e jovens);
+- políticas de controle do tabaco (MPOWER);
+- campanhas de conscientização;
+- regulamentação e tributação. 
   
 Metodologia: 
 
@@ -44,17 +44,17 @@ Metodologia:
   
   Tecnologias utilizadas: 
   
-  Python
-  Pandas
-  NumPy
-  Matplotlib
-  Seaborn
-  Scikit-learn
-  Jupyter Notebook / Google Colab
+  - Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
+  - Jupyter Notebook / Google Colab
 
   Resultados esperados: 
   
-  Identificação de padrões globais de tabagismo. 
-  Relação entre políticas públicas e redução do consumo. 
-  Modelo preditivo para classificação de países. 
-  Visualizações claras e interpretáveis
+  - Identificação de padrões globais de tabagismo. 
+  - Relação entre políticas públicas e redução do consumo. 
+  - Modelo preditivo para classificação de países. 
+  - Visualizações claras e interpretáveis
