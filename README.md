@@ -1,4 +1,4 @@
-# PA2-tabagismo
+# Análise de Indicadores Globais de Controle do Tabaco Utilizando Dados da Organização Mundial da Saúde (OMS)
 **Descrição:**
 
   Este projeto tem como objetivo aplicar técnicas de Ciência de Dados para analisar indicadores globais relacionados ao controle do tabagismo, utilizando dados oficiais da Organização Mundial da Saúde (OMS), disponíveis no Global Health Observatory (GHO).
