@@ -1,10 +1,10 @@
 # PA2-tabagismo
-Descrição:
+**Descrição:**
 
   Este projeto tem como objetivo aplicar técnicas de Ciência de Dados para analisar indicadores globais relacionados ao controle do tabagismo, utilizando dados oficiais da Organização Mundial da Saúde (OMS), disponíveis no Global Health Observatory (GHO).
   A proposta central consiste em investigar a relação entre políticas públicas de controle do tabaco e a prevalência do tabagismo em diferentes países, utilizando métodos de análise exploratória e aprendizado de máquina.
   
-Objetivo:
+**Objetivo:**
 
   Desenvolver um modelo analítico capaz de:
 
@@ -13,7 +13,7 @@ Objetivo:
 - classificar países de acordo com níveis de prevalência;
 - gerar insights relevantes para apoio à decisão em saúde pública.
 
-Base de dados:
+**Base de dados:**
 
   A base utilizada é disponibilizada pela Organização Mundial da Saúde: 
 
@@ -28,7 +28,7 @@ Base de dados:
 - campanhas de conscientização;
 - regulamentação e tributação. 
   
-Metodologia: 
+**Metodologia:** 
 
   O projeto segue as seguintes etapas: 
 
@@ -42,19 +42,19 @@ Metodologia:
 
   O modelo inicial proposto utiliza Árvore de Decisão (Decision Tree) para classificação dos níveis de prevalência do tabagismo. 
   
-  Tecnologias utilizadas: 
+  **Tecnologias utilizadas:**
   
-  - Python
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
-  - Scikit-learn
-  - Jupyter Notebook / Google Colab
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook / Google Colab
 
-  Resultados esperados: 
+  **Resultados esperados:** 
   
-  - Identificação de padrões globais de tabagismo. 
-  - Relação entre políticas públicas e redução do consumo. 
-  - Modelo preditivo para classificação de países. 
-  - Visualizações claras e interpretáveis
+- Identificação de padrões globais de tabagismo. 
+- Relação entre políticas públicas e redução do consumo. 
+- Modelo preditivo para classificação de países. 
+- Visualizações claras e interpretáveis
