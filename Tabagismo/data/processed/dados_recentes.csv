@@ -1,0 +1,166 @@
+pais,codigo_pais,ano,prevalencia
+Afghanistan,AFG,2022,22.7
+Albania,ALB,2022,21.9
+Algeria,DZA,2022,21.2
+Andorra,AND,2022,36.3
+Argentina,ARG,2022,23.8
+Armenia,ARM,2022,24.9
+Australia,AUS,2022,13.1
+Austria,AUT,2022,24.9
+Azerbaijan,AZE,2022,19.6
+Bahamas,BHS,2022,11.3
+Bahrain,BHR,2022,15.0
+Bangladesh,BGD,2022,32.9
+Barbados,BRB,2022,7.0
+Belarus,BLR,2022,30.1
+Belgium,BEL,2022,26.7
+Belize,BLZ,2022,8.8
+Benin,BEN,2022,6.3
+Bhutan,BTN,2022,18.7
+Bolivia,BOL,2022,12.4
+Bosnia and Herzegovina,BIH,2022,36.2
+Botswana,BWA,2022,18.7
+Brazil,BRA,2022,12.2
+Brunei,BRN,2022,16.4
+Bulgaria,BGR,2022,39.5
+Burkina Faso,BFA,2022,14.3
+Burundi,BDI,2022,11.2
+Cambodia,KHM,2022,17.2
+Cameroon,CMR,2022,6.5
+Canada,CAN,2022,12.0
+Cape Verde,CPV,2022,11.0
+Chad,TCD,2022,7.4
+Chile,CHL,2022,28.7
+China,CHN,2022,23.4
+Colombia,COL,2022,8.2
+Comoros,COM,2022,17.2
+Congo,COG,2022,15.4
+Cook Islands,COK,2022,27.0
+Costa Rica,CRI,2022,8.9
+Cote d'Ivoire,CIV,2022,8.8
+Croatia,HRV,2022,37.0
+Cuba,CUB,2022,17.4
+Cyprus,CYP,2022,35.6
+Czechia,CZE,2022,29.9
+Democratic Republic of Congo,COD,2022,12.2
+Denmark,DNK,2022,16.2
+Dominican Republic,DOM,2022,10.5
+East Timor,TLS,2022,38.7
+Ecuador,ECU,2022,10.2
+Egypt,EGY,2022,24.7
+El Salvador,SLV,2022,8.9
+Estonia,EST,2022,28.3
+Eswatini,SWZ,2022,9.5
+Ethiopia,ETH,2022,5.2
+Fiji,FJI,2022,27.6
+Finland,FIN,2022,22.3
+France,FRA,2022,34.6
+Gambia,GMB,2022,10.5
+Georgia,GEO,2022,31.8
+Germany,DEU,2022,21.3
+Ghana,GHA,2022,3.4
+Greece,GRC,2022,32.8
+Guatemala,GTM,2022,11.9
+Guinea-Bissau,GNB,2022,8.2
+Guyana,GUY,2022,11.1
+Haiti,HTI,2022,8.1
+Honduras,HND,2022,12.3
+Hungary,HUN,2022,32.2
+Iceland,ISL,2022,9.4
+India,IND,2022,24.3
+Indonesia,IDN,2022,38.2
+Iran,IRN,2022,13.3
+Iraq,IRQ,2022,19.2
+Ireland,IRL,2022,19.3
+Israel,ISR,2022,20.4
+Italy,ITA,2022,22.4
+Jamaica,JAM,2022,9.7
+Japan,JPN,2022,19.2
+Jordan,JOR,2022,35.6
+Kazakhstan,KAZ,2022,22.2
+Kenya,KEN,2022,10.7
+Kiribati,KIR,2022,39.7
+Kuwait,KWT,2022,19.9
+Kyrgyzstan,KGZ,2022,27.3
+Laos,LAO,2022,27.2
+Latvia,LVA,2022,33.9
+Lebanon,LBN,2022,34.3
+Lesotho,LSO,2022,24.3
+Liberia,LBR,2022,8.2
+Lithuania,LTU,2022,31.4
+Luxembourg,LUX,2022,23.0
+Madagascar,MDG,2022,26.8
+Malawi,MWI,2022,9.7
+Malaysia,MYS,2022,22.0
+Maldives,MDV,2022,26.3
+Mali,MLI,2022,8.0
+Malta,MLT,2022,24.7
+Marshall Islands,MHL,2022,29.8
+Mauritania,MRT,2022,9.5
+Mauritius,MUS,2022,20.9
+Mexico,MEX,2022,14.9
+Moldova,MDA,2022,29.7
+Mongolia,MNG,2022,29.5
+Montenegro,MNE,2022,32.0
+Morocco,MAR,2022,13.0
+Myanmar,MMR,2022,44.4
+Namibia,NAM,2022,14.1
+Nauru,NRU,2022,48.3
+Nepal,NPL,2022,28.3
+Netherlands,NLD,2022,21.3
+New Zealand,NZL,2022,12.2
+Niger,NER,2022,7.7
+Nigeria,NGA,2022,3.3
+North Korea,PRK,2022,16.5
+Norway,NOR,2022,14.2
+Oman,OMN,2022,8.4
+Pakistan,PAK,2022,18.9
+Palau,PLW,2022,17.3
+Panama,PAN,2022,5.2
+Papua New Guinea,PNG,2022,39.6
+Paraguay,PRY,2022,10.7
+Peru,PER,2022,7.1
+Philippines,PHL,2022,20.4
+Poland,POL,2022,23.6
+Portugal,PRT,2022,25.6
+Qatar,QAT,2022,12.5
+Romania,ROU,2022,30.0
+Russia,RUS,2022,29.2
+Rwanda,RWA,2022,14.3
+Saint Lucia,LCA,2022,13.8
+Samoa,WSM,2022,22.5
+Sao Tome and Principe,STP,2022,7.8
+Saudi Arabia,SAU,2022,14.9
+Senegal,SEN,2022,6.5
+Serbia,SRB,2022,39.5
+Seychelles,SYC,2022,20.2
+Sierra Leone,SLE,2022,12.9
+Singapore,SGP,2022,16.4
+Slovakia,SVK,2022,32.4
+Slovenia,SVN,2022,20.1
+Solomon Islands,SLB,2022,36.9
+South Africa,ZAF,2022,20.7
+South Korea,KOR,2022,20.0
+Spain,ESP,2022,28.4
+Sri Lanka,LKA,2022,19.5
+Sweden,SWE,2022,22.7
+Switzerland,CHE,2022,25.5
+Tanzania,TZA,2022,9.3
+Thailand,THA,2022,19.2
+Togo,TGO,2022,6.4
+Tonga,TON,2022,31.3
+Tunisia,TUN,2022,20.5
+Turkey,TUR,2022,30.5
+Turkmenistan,TKM,2022,5.6
+Tuvalu,TUV,2022,33.7
+Uganda,UGA,2022,7.5
+Ukraine,UKR,2022,24.9
+United Arab Emirates,ARE,2022,9.0
+United Kingdom,GBR,2022,14.2
+United States,USA,2022,24.3
+Uruguay,URY,2022,20.5
+Uzbekistan,UZB,2022,16.7
+Vietnam,VNM,2022,22.5
+Yemen,YEM,2022,21.4
+Zambia,ZMB,2022,14.6
+Zimbabwe,ZWE,2022,11.3
